@@ -891,6 +891,38 @@
 
 
 
+    
+
+
+    .step-section1 h1{
+        font-size: 128px;
+        font-weight: 700;
+        color: #8e8e93;
+    }
+
+
+    /*.step-section p{
+        font-size: 16px;
+    }*/
+
+    .step-section1 h3{
+        font-size: 48px;
+        font-weight: 700;
+        letter-spacing: -2px;
+        color: #1c1c1e;
+    }
+
+    .step-section1 h4{
+        font-size: 24px;
+        color: #3a3a3c;
+        font-weight: 400;
+    }
+
+    .step-section1 h6{
+        font-size: 16px;
+        color: #3a3a3c;
+    }
+
 
 
 
